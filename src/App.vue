@@ -2,7 +2,7 @@
   <div id="app">
     <section class="section has-background-light">
       <div class="container is-fluid columns">
-        <div class="column is-half">
+        <div class="column is-12">
           <div class="box content">
             <h1>Tokenomics Calculator</h1>
             <h4>1. Fundraising (Goal: ${{ fundraisingTotal|money }})</h4>
@@ -301,7 +301,7 @@
           </div>
         </template>
         </div>
-        <div class="column is-half">
+        <div class="column is-12">
           <div class="section">
             <b-field label="Price precision (Decimals)">
                     <b-slider size="is-medium" :min="0" :max="10" v-model="priceDecimals" @input="renderd()">
