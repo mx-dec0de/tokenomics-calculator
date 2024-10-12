@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <section class="section has-background-light">
-      <div class="container  columns">
+      <div class="container is-multiline columns">
         <div class="column is-12">
           <div class="box content">
             <h1>Tokenomics Calculator</h1>
