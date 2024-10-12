@@ -12,6 +12,7 @@
     "@mdi/light-font": "^0.2.63",
     "@mdi/light-js": "^0.2.63",
     "apexcharts": "^3.45.2",
+    "buefy": "^0.9.29",
     "core-js": "^3.8.3",
     "numeral": "^2.0.6",
     "vue": "^2.6.14",
